@@ -1,3 +1,3 @@
 # Verify Account UI
 
-- Hosted Project Link:- https://vivek-verify-account-ui.netlify.app/
+- Hosted Project Link:- https://gitsofvivek.github.io/Verify-Account-UI/
